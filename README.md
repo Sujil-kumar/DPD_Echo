@@ -7,15 +7,6 @@ DPD Echo is a simple and secure web application to facilitate structured feedbac
 Built using **React** (frontend), **Flask (Python)** (backend), and **SQLite** (database).
 
 ---
-
-##  Live Demo (if available)
-
--  **Demo Video (Product UI)**: [YouTube/Loom Link](#)
--  **Code Walkthrough (Codebase Explanation)**: [YouTube/Loom Link](#)
--  **GitHub Repository**: [GitHub Link](#)
-
----
-
 ##  Tech Stack
 
 | Layer       | Technology        |
